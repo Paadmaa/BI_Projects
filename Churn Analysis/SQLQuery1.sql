@@ -1,3 +1,0 @@
-CREATE DATABASE db_Churn
-
-SELECT * FROM Customer_Data
