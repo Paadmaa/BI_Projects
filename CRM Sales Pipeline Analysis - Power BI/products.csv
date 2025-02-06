@@ -1,8 +1,3 @@
-product,series,sales_price
-GTX Basic,GTX,550
-GTX Pro,GTX,4821
-MG Special,MG,55
-MG Advanced,MG,3393
-GTX Plus Pro,GTX,5482
-GTX Plus Basic,GTX,1096
-GTK 500,GTK,26768
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c1c8cbbdb6d4c286902e1985eeb529a36366d6a43f43cd4a93c4b1da2a6eb84
+size 171
