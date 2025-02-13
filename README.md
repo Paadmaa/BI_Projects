@@ -9,92 +9,92 @@ This repository showcases a collection of Power BI projects designed to demonstr
     *   **Key Skills:** Data Visualization, Sales Analysis, KPI Tracking, Power BI
     *   **[Link to `Adidas Sales Dashboard/README.md`]**
 
-3.  **Air Quality Dashboard:**
+2.  **Air Quality Dashboard:**
     *   A Power BI dashboard that monitors air quality metrics and provides insights into pollution levels and their impact.
     *   **Key Skills:** Environmental Data Analysis, Data Visualization, Power BI
     *   **[Link to `Air Quality Dashboard/README.md`]**
 
-5.  **Amazon Sales Dashboard:**
+3.  **Amazon Sales Dashboard:**
     *   A Power BI dashboard providing a comprehensive overview of Amazon sales performance.
     *   **Key Skills:** E-commerce Analytics, Sales Analysis, Power BI
     *   **[Link to `Amazon Sales Dashboard/README.md`]**
 
-7.  **Blinkit Sales Dashboard:** 
+4.  **Blinkit Sales Dashboard:** 
     *   A Power BI dashboard analyzing sales data for Blinkit (a quick commerce platform).
     *   **Key Skills:** E-commerce Analytics, Sales Analysis, Data Visualization, Power BI
     *   **[Link to `Blinkit Sales Dashboard/README.md`]**
 
-8.  **Car Sales Dashboard:**
+5.  **Car Sales Dashboard:**
     *   A Power BI dashboard visualizing car sales data to identify trends and track performance.
     *   **Key Skills:** Automotive Industry Analytics, Sales Analysis, Data Visualization, Power BI
     *   **[Link to `Car Sales Dashboard/README.md`]**
 
-10.  **Child Mortality Rate:**
+6.  **Child Mortality Rate:**
     *   A Power BI report visualizing and analyzing child mortality rates.
     *   **Key Skills:** Public Health Analytics, Data Visualization, Statistical Analysis, Power BI
     *   **[Link to `Child Mortality Rate/README.md`]**
 
-11.  **CRM Sales Pipeline Analysis - Power BI:**
+7.  **CRM Sales Pipeline Analysis - Power BI:**
     *   A Power BI dashboard for analyzing CRM sales pipeline data to identify bottlenecks and improve sales performance.
     *   **Key Skills:** CRM Analytics, Sales Pipeline Management, Power BI, Data Visualization
     *   **[Link to `CRM Sales Pipeline Analysis - Power BI/README.md`]**
 
-12.  **Healthcare Data Analysis:**
+8.  **Healthcare Data Analysis:**
     *   Power BI analysis of healthcare data (e.g., patient demographics, hospital readmission rates).
     *   **Key Skills:** Healthcare Analytics, Data Analysis, Power BI
     *   **[Link to `Healthcare Data Analysis/README.md`]**
 
-14.  **HR Analytics:**
+9.  **HR Analytics:**
     *   Power BI-based HR analytics project.
     *   **Key Skills:** HR Analytics, Workforce Analysis, Data Visualization, Power BI
     *   **[Link to `HR Analytics/README.md`]**
 
-17. **Mr. Ratan Tata Project:**
+10. **Mr. Ratan Tata Project:**
     *   A Power BI project, likely involving data related to the Tata Group or Mr. Tata's initiatives.  (Requires more context to provide a better description).
     *   **Key Skills:** [Depends on the project specifics - you need to fill this in]
     *   **[Link to `Mr Ratan Tata Project/README.md`]**
 
-18. **Olympics Data Visualization:** 
+11. **Olympics Data Visualization:** 
     *   A Power BI project visualizing Olympics data (e.g., medal counts, athlete statistics).
     *   **Key Skills:** Data Visualization, Sports Analytics, Power BI
     *   **[Link to `Olympics Data Visualization/README.md`]**
 
-19. **PwC Call Centre Project:** 
+12. **PwC Call Centre Project:** 
     *   A Power BI project likely involving the analysis of call centre data from PwC.
     *   **Key Skills:** Consulting Analytics, Data Analysis, Call Center Data Analysis
     *   **[Link to `PwC Call Centre Project/README.md`]**
 
-20. **Retail Store Dashboard:**
+13. **Retail Store Dashboard:**
     *   A Power BI dashboard visualizing retail store data to track sales, inventory, and customer behavior.
     *   **Key Skills:** Retail Analytics, Data Visualization, Power BI
     *   **[Link to `Retail Store Dashboard/README.md`]**
 
-21. **Road Accident Analysis:**
+14. **Road Accident Analysis:**
     *   A Power BI project analyzing road accident data to identify causes and trends.
     *   **Key Skills:** Data Visualization, Accident Analysis, Power BI
     *   **[Link to `Road Accident Analysis/README.md`]**
 
-23. **Space Missions - Analysis:** 
+15. **Space Missions - Analysis:** 
     *   A Power BI project analyzing data related to space missions.
     *   **Key Skills:** Data Visualization, Space Missions, Power BI
     *   **[Link to `Space Missions - Analysis/README.md`]**
 
-24. **Super Store Analytics:**
+16. **Super Store Analytics:**
     *   Power BI analysis of sales data for a "Super Store".
     *   **Key Skills:** Retail Analytics, Data Analysis, Power BI
     *   **[Link to `Super Store Analytics/README.md`]**
 
-26. **TechnoEdge Sales - End to End Project:**
+17. **TechnoEdge Sales - End to End Project:**
     *   A comprehensive Power BI project analyzing TechnoEdge sales data.
     *   **Key Skills:** Sales Analytics, Data Visualization, Power BI
     *   **[Link to `TechnoEdge Sales - End to End Project/README.md`]**
 
-28. **UK Train Rides:** 
+18. **UK Train Rides:** 
     *   A Power BI project visualizing UK train rides.
     *   **Key Skills:** Data Visualization, Transport Analytics, Power BI
     *   **[Link to `UK Train Rides/README.md`]**
 
-29. **Virat Kohli Performance Dashboard:** 
+19. **Virat Kohli Performance Dashboard:** 
     *   A Power BI dashboard visualizing the performance statistics of cricketer Virat Kohli.
     *   **Key Skills:** Data Visualization, Sports Analytics, Power BI
     *   **[Link to `Virat Kohli Performance Dashboard/README.md`]**
