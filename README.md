@@ -129,8 +129,13 @@ Each project has its own folder within this repository. Inside each folder, you 
 *   **Lessons Learned:** A reflection on what you learned from the project and any challenges you encountered.
 *   **Future Enhancements:** Ideas for how the project could be improved or expanded in the future.
 
-## License
+## Connect with Me
 
-[Choose a license, e.g., MIT License]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn Link]
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][GitHub Link]
+
+[LinkedIn Link]: [[(https://www.linkedin.com/in/padmach-behera/)]
+[GitHub Link]:   [(https://github.com/Paadmaa)]
+
 
 
