@@ -41,6 +41,33 @@ Here are some of my notable projects, each demonstrating my expertise in **data 
     *   **Key Skills:** Data Visualization, Sports Analytics, Power BI
     *   **[README.md](https://github.com/Paadmaa/BI_Projects/blob/master/Virat%20Kohli%20Performance%20Dashboard/README.md)**
 
+## Dashboards - 
+
+  <table>
+    <tr>
+      <td><img src="Air Quality Dashboard/AIQ Report  (Final View).png" width="1000"></td>
+      <td><img src="Blinkit Sales Dashboard/Blinkit Sales View.png" width="1000"></td>
+    </tr>
+     <tr>
+         <td><img src="CRM Sales Pipeline Analysis - Power BI/Dahboard View.png" width="1000"></td>
+      <td><img src="Healthcare Data Analysis/Slide 1.png" width="1000"></td>
+     </tr>
+     <tr>
+          <td><img src="PwC Call Centre Project/Dashboard View.png" width="1000"></td>
+      <td><img src="Retail Store Dashboard/Retail Store View.png" width="1000"></td>
+     </tr>
+    <tr>
+     <td><img src="Space Missions - Analysis/Space Mission - Screenshot.png" width="1000"></td>
+      <td><img src="Super Store Analytics/Dashboard View.png" width="1000"></td>
+    </tr>
+     <tr>
+        <td><img src="Amazon Prime Video/Dashboard View.png" width="1000"></td>
+      <td><img src="Adidas Sales Dashboard/Final View.png" width="1000"></td>
+     </tr>
+  </table>
+</div>
+
+
 ## Skills Demonstrated
 
 *   Data Visualization
