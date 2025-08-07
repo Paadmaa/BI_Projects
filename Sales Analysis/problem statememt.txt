@@ -1,0 +1,9 @@
+The current business environment demands data-driven decision-making, but Company X is facing challenges in effectively tracking and visualizing key sales and profitability metrics. 
+
+This has led to missed opportunities in understanding customer behavior, sales performance across categories, and overall profitability trends.
+
+ The lack of clear insights from raw data makes it difficult for the management to take timely and informed actions.
+
+To address these challenges, this Power BI report consolidates critical KPIs, including total orders , quantity sold , total sales , and revenue per customer. Additionally, the report provides detailed breakdowns of sales by category (Electronics, Clothing, Furniture) and payment mode through interactive donut charts. It further highlights top-performing customers, cities, and sub-categories using stack bar charts, while clustered bar charts visualize profit trends by quarter and a clear view of profit/loss margins. A line chart for monthly sales offers a continuous perspective on performance across time.
+
+This comprehensive Power BI dashboard will enable the company to efficiently monitor key business metrics, understand sales trends, and make data-backed decisions to enhance overall business performance.
